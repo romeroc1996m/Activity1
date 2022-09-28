@@ -1,3 +1,4 @@
+![oops, image bit found](banner.jpg "James Webb Nebula Image")
 
 # Learning Github Desktop
 
